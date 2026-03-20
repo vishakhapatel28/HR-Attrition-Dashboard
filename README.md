@@ -59,6 +59,10 @@ This project analyzes employee attrition data using Power BI to identify key fac
   <img src="dashboard.png" width="800"/>
 </p>
 
+<p align="center">
+  HR Attrition Dashboard - Power BI
+</p>
+
 ## 🔮 Future Improvements
 - Add predictive attrition model (ML)
 - Integrate real-time HR data
